@@ -178,7 +178,7 @@ Caracteristicas visuais:
 1. Acesse a pasta do projeto:
 
 ```cmd
-cd "C:\Users\ldkse\Desktop\FACULDADE\infernomestre parte 7\DESENVOLVIMENTO MOBILE\PROJETO MOBILE\projeto\GameRank"
+cd "...\GameRank"
 ```
 
 2. Instale as dependencias:
